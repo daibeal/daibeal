@@ -1,5 +1,5 @@
 
-<img src ="https://github.com/daibeal/daibeal/blob/main/img/banner.jpg?raw=true" width='100%'>
+<img src ="https://github.com/daibeal/daibeal/blob/main/img/banner.png?raw=true" width='100%'>
 
 <h2>Hey there! I'm Andrés</h2>
 
