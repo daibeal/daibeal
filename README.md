@@ -50,10 +50,9 @@
 
 <p align="center">
 <a href="https://www.andresbenites.es"><img src="https://img.shields.io/badge/-andresbenites.es-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-https://www.linkedin.com/in/daibeal/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@andresbenites.es?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/daibeal/"><img src="https://img.shields.io/badge/-Andrés B. Aldaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:contact@andresbenites.es?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)"><img src="https://img.shields.io/badge/-contact@andresbenites.es-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/andresbenitess"><img src="https://img.shields.io/badge/-@andresbenitess-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
