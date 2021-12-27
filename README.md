@@ -1,11 +1,10 @@
+<img src ="https://github.com/daibeal/daibeal/blob/main/img/banner.png?raw=true" width='100%' alt="Merry Christmas">
 
-<img src ="https://github.com/daibeal/daibeal/blob/main/img/banner.png?raw=true" width='100%'>
-
-<h2>Hey there! I'm Andrés</h2>
+<h1>Hey there! I'm Andrés</h1
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering and Business Administration at [UPV - Polytechnic University of Valencia](https://www.upv.es/es).\
