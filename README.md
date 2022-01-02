@@ -1,4 +1,4 @@
-<img src ="https://github.com/daibeal/daibeal/blob/main/img/banner-g.gif" width='100%' alt="Happy New Year 2022">
+<img src ="https://github.com/daibeal/daibeal/blob/main/img/banner.png" width='100%' alt="Happy New Year 2022">
 
 <h1>Hey there! I'm Andrés</h1
 
