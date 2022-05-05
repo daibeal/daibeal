@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue Quantum Computing and [Blog Writing](https://blog.andresbenites.es) as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email [contact@andresbenites.es](mailto:contact@andresbenites.es?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)) I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://www.andresbenites.es) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Website](http://www.andresbenites.es) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
