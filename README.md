@@ -4,8 +4,8 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
   
-## 📚 &nbsp;Important
-Fri Jun 24 18:47:20 CEST 2022 - I will be in Stockholm, Sweden for the next few months doing my Erasmus exchange at [KTH Royal Institute of Technology](https://www.kth.se/en)
+## 🗞 &nbsp;Latest news
+Fri Jun 24 18:47:20 CEST 2022 - 🇸🇪📚 I will be in Stockholm, Sweden for the next few months doing my Erasmus exchange at [KTH Royal Institute of Technology](https://www.kth.se/en).
 
 ## 👨🏻‍💻 &nbsp;About Me
 
