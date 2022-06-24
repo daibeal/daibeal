@@ -1,5 +1,3 @@
-<img src ="https://github.com/daibeal/daibeal/blob/main/img/wp2254585-simplistic-wallpapers.jpg" width='100%' height='250px' alt="Happy New Year 2022">
-
 <h1>Hey there! I'm Andrés</h1
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
