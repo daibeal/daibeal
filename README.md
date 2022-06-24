@@ -1,4 +1,4 @@
-<img src ="https://media-exp1.licdn.com/dms/image/C4D1BAQG8XOMhaL9MZA/company-background_10000/0/1601388825655?e=2159024400&v=beta&t=JdGAyeVdZPyHDPfHBW4U4mID3Zxkhadv2QQfncTEQqg" width='100%' alt="Happy New Year 2022">
+<img src ="https://github.com/daibeal/daibeal/blob/main/img/ezgif.com-gif-maker.gif" width='100%' height='230px' alt="Happy New Year 2022">
 
 <h1>Hey there! I'm Andrés</h1
 
