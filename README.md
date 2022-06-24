@@ -9,7 +9,7 @@
 ##### Fri Jun 24 18:47:20 CEST 2022 - Moving to Sweden 🇸🇪 
 - I will be in Stockholm for the next few months doing my [Erasmus exchange](https://erasmus-plus.ec.europa.eu) at [KTH Royal Institute of Technology](https://www.kth.se/en).
 ##### Fri Jan 01 13:44:12 CEST 2022 - Moving to Madrid 🇪🇸
-- I will be in Madrid for the next few months doing a [SICUE exchange](https://www.crue.org/sicue/) at [Complutense University of Madrid](https://www.ucm.es).
+- I will be in Madrid for the next semester doing a [SICUE exchange](https://www.crue.org/sicue/) at [Complutense University of Madrid](https://www.ucm.es).
 
 ## 👨🏻‍💻 &nbsp;About Me
 
