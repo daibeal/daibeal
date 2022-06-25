@@ -5,7 +5,7 @@
 ## 🗞 &nbsp;Latest news
   
 ##### Sat Jun 25 2022 - Data Science Bootcamp 🧭
-- I have just started a Bootcamp in Data Analytics, Artificial Intelligence and Machine Learning by [Keepcoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/). It is a one year course thus I'll be presenting the final proyect around April.
+- I have just started a Bootcamp in Data Analytics, Artificial Intelligence and Machine Learning offered by [Keepcoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/). It is a one year course thus I'll be presenting the final proyect around April.
   
 ##### Fri Jun 24 2022 - Moving to Sweden 🇸🇪 
 - I will be in Stockholm for the next few months doing my [Erasmus Exchange](https://erasmus-plus.ec.europa.eu) at [KTH Royal Institute of Technology](https://www.kth.se/en).
