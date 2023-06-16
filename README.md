@@ -4,13 +4,6 @@
   
 ## 🗞 &nbsp;Latest news
                     
-##### Sat Jun 25 2022 - Data Science Bootcamp 🧭
-- I have just started a Bootcamp in Data Analytics, Artificial Intelligence and Machine Learning offered by [Keepcoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/). It is a one year course thus I'll be presenting the final proyect around April.
-  
-##### Fri Jun 24 2022 - Moving to Sweden 🇸🇪 
-- I will be in Stockholm for the next few months doing my [Erasmus Exchange](https://erasmus-plus.ec.europa.eu) at [KTH Royal Institute of Technology](https://www.kth.se/en).
-##### Fri Jan 01 2022 - Moving to Madrid 🇪🇸
-- I will be in Madrid for the next semester doing a [SICUE Exchange](https://www.crue.org/sicue/) at [Complutense University of Madrid](https://www.ucm.es).
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -19,8 +12,8 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science and Information Systems.\
 ✍️ &nbsp;In my free time, I pursue Quantum Computing and [Blog Writing](https://blog.andresbenites.es) as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email [contact@andresbenites.es](mailto:contact@andresbenites.es?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)) I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [website](http://www.andresbenites.es) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email [andres@daibeal.me](mailto:andres@daibeal.me?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)) I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [website](http://www.daibeal.me) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -47,19 +40,12 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-05122A?style=flat&logo=latex)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daibeal/github-stats/master/generated/languages.svg"/>
-  <img src="https://raw.githubusercontent.com/daibeal/github-stats/master/generated/overview.svg"/>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="http://www.andresbenites.es"><img src="https://img.shields.io/badge/-andresbenites.es-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="http://www.daibeal.me"><img src="https://img.shields.io/badge/-daibeal.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/daibeal/"><img src="https://img.shields.io/badge/-Andrés B. Aldaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@andresbenites.es?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)"><img src="https://img.shields.io/badge/-contact@andresbenites.es-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:andres@daibeal.me?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)"><img src="https://img.shields.io/badge/-andres@daibeal.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/andresbenitess"><img src="https://img.shields.io/badge/-@andresbenitess-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
