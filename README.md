@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp;I am deeply engrossed in the world of financial technology. To further my expertise, I am pursuing a **Master's in Fintech Financial Services Technologies** alongside another Master's in **Applied Mathematics**. This dual pathway reflects my commitment to understanding and innovating within the fintech sector.
 
-- 🌍 &nbsp;Language and culture play a significant role in my professional and personal life. I am fluent in **English, French, and Spanish** (my native language). Currently based in **Valencia**, I am not only focused on my career but also on fostering a balanced and enriching life outside of work.
+- 🌍 &nbsp;Language and culture play a significant role in my professional and personal life. I am fluent in **English, French, and Spanish** (my native language). Currently based in 🏝️ **Valencia**, I am not only focused on my career but also on fostering a balanced and enriching life outside of work.
 
 - 👩‍❤️‍👨 &nbsp;I am happily married, and in my leisure time, I find solace in reading. Books like George Orwell's "**1984**" captivate me, as well as other works that challenge my understanding of society and technology. I also delve into classics and modern literature that reflect critical thinking and profound insights into human nature and societal structures, akin to the themes found in "**Brave New World**" by Aldous Huxley and "**Fahrenheit 451**" by Ray Bradbury.
 
