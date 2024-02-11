@@ -1,24 +1,26 @@
-<h1>Hey there! I'm Andrés</h1
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-  
-## 🗞 &nbsp;Latest news
-                    
+<h1>Hey there! I'm Andrés</h1>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Engineering and Business Administration at [UPV - Polytechnic University of Valencia](https://www.upv.es/es).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science and Information Systems.\
-✍️ &nbsp;In my free time, I pursue Quantum Computing and [Blog Writing](https://blog.andresbenites.es) as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email [andres@daibeal.me](mailto:andres@daibeal.me?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)) I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [website](http://www.daibeal.me) for more details about me. I'm open to feedback and suggestions!
+- 💡 &nbsp;I am a dedicated **Computer Engineer and Business Management professional** with a keen interest in technology and innovation. Currently, I serve as a Business Analyst at [Sopra Banking Software](https://www.soprabanking.com), focusing on **AMS Cassiopae for Specialized Markets**. My role involves a blend of functional analysis and programming, leveraging **PL/SQL** for professional projects and exploring **Python, Java, C++, and R** in my personal endeavors.
+
+- 🎓 &nbsp;I am deeply engrossed in the world of financial technology. To further my expertise, I am pursuing a **Master's in Fintech Financial Services Technologies** alongside another Master's in **Applied Mathematics**. This dual pathway reflects my commitment to understanding and innovating within the fintech sector.
+
+- 🌍 &nbsp;Language and culture play a significant role in my professional and personal life. I am fluent in **English, French, and Spanish** (my native language). Currently based in **Valencia**, I am not only focused on my career but also on fostering a balanced and enriching life outside of work.
+
+- 👩‍❤️‍👨 &nbsp;I am happily married, and in my leisure time, I find solace in reading. Books like George Orwell's "**1984**" captivate me, as well as other intellectually stimulating works that challenge my understanding of society and technology. I also delve into classics and modern literature that reflect critical thinking and profound insights into human nature and societal structures, akin to the themes found in "**Brave New World**" by Aldous Huxley and "**Fahrenheit 451**" by Ray Bradbury.
+
+- 📢 &nbsp;Feel free to connect with me for insights into fintech, technology, and software development, or simply to exchange thoughts on the latest in science fiction and societal critique. 
+
+- 🌐 &nbsp;Visit my [LinkedIn profile](https://www.linkedin.com/in/andres-aldaz/) for a more comprehensive overview of my professional journey and projects. I am always open to new opportunities, collaborations, and conversations that drive growth and understanding.
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
+
+![PL/SQL](https://img.shields.io/badge/PL%20SQL-Oracle-red?logo=oracle&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -50,4 +52,4 @@
 </p>
 
 -----
-Tue Nov 22 23:23:55 CET 2022
+Last updated: 2024-02-11 00:10:22
