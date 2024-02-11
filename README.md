@@ -8,7 +8,7 @@
 
 - 🌍 &nbsp;Language and culture play a significant role in my professional and personal life. I am fluent in **English, French, and Spanish** (my native language). Currently based in **Valencia**, I am not only focused on my career but also on fostering a balanced and enriching life outside of work.
 
-- 👩‍❤️‍👨 &nbsp;I am happily married, and in my leisure time, I find solace in reading. Books like George Orwell's "**1984**" captivate me, as well as other intellectually stimulating works that challenge my understanding of society and technology. I also delve into classics and modern literature that reflect critical thinking and profound insights into human nature and societal structures, akin to the themes found in "**Brave New World**" by Aldous Huxley and "**Fahrenheit 451**" by Ray Bradbury.
+- 👩‍❤️‍👨 &nbsp;I am happily married, and in my leisure time, I find solace in reading. Books like George Orwell's "**1984**" captivate me, as well as other works that challenge my understanding of society and technology. I also delve into classics and modern literature that reflect critical thinking and profound insights into human nature and societal structures, akin to the themes found in "**Brave New World**" by Aldous Huxley and "**Fahrenheit 451**" by Ray Bradbury.
 
 - 📢 &nbsp;Feel free to connect with me for insights into fintech, technology, and software development, or simply to exchange thoughts on the latest in science fiction and societal critique. 
 
