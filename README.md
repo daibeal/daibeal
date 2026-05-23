@@ -1,4 +1,4 @@
-# Andrés B. Aldaz
+# Andrés Aldaz
 
 Banking technology consultant and financial systems engineer working at the intersection of core banking platforms, equipment finance, and asset-backed lending. Current focus is the delivery of **high-volume batch integration pipelines** and **multi-party reconciliation engines** across heterogeneous financial infrastructures — the kind of inter-institutional data orchestration where settlement accuracy, audit traceability, and regulatory conformance are non-negotiable.
 
@@ -34,6 +34,4 @@ Engineering     Git   Docker   CI/CD   Jira   LaTeX
 
 ## Contact
 
-- Web · [daibeal.me](http://www.daibeal.me)
-- LinkedIn · [linkedin.com/in/daibeal](https://www.linkedin.com/in/daibeal/)
-- Email · andres@daibeal.me
+- Web · [andresaldaz.com](http://www.andresaldaz.com)
