@@ -2,9 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I am a dedicated **Computer Engineer and Business Management professional** with a keen interest in technology and innovation. Currently, I serve as a Business Analyst at [Sopra Banking Software](https://www.soprabanking.com), focusing on **AMS Cassiopae for Specialized Markets**. My role involves a blend of functional analysis and programming, leveraging **PL/SQL** for professional projects and exploring **Python, Java, C++, and R** in my personal endeavors.
-
-- 🎓 &nbsp;I am deeply engrossed in the world of financial technology. To further my expertise, I am pursuing a **Master's in Fintech Financial Services Technologies** alongside another Master's in **Applied Mathematics**. This dual pathway reflects my commitment to understanding and innovating within the fintech sector.
+- 💡 &nbsp;I am a dedicated **Computer Engineer and Business Management professional** with a keen interest in technology and innovation. My role involves a blend of functional analysis and programming, leveraging **PL/SQL** for professional projects and exploring **Python, Java, C++, and R** in my personal endeavors.
 
 - 🌍 &nbsp;Language and culture play a significant role in my professional and personal life. I am fluent in **English, French, and Spanish** (my native language). Currently based in 🏝️ **Valencia**, I am not only focused on my career but also on fostering a balanced and enriching life outside of work.
 
