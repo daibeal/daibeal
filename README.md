@@ -1,53 +1,39 @@
-<h1>Hey there! I'm Andrés</h1>
+# Andrés B. Aldaz
 
-## 👨🏻‍💻 &nbsp;About Me
+Banking technology consultant and financial systems engineer working at the intersection of core banking platforms, equipment finance, and asset-backed lending. Current focus is the delivery of **high-volume batch integration pipelines** and **multi-party reconciliation engines** across heterogeneous financial infrastructures — the kind of inter-institutional data orchestration where settlement accuracy, audit traceability, and regulatory conformance are non-negotiable.
 
-- 💡 &nbsp;I am a dedicated **Computer Engineer and Business Management professional** with a keen interest in technology and innovation. My role involves a blend of functional analysis and programming, leveraging **PL/SQL** for professional projects and exploring **Python, Java, C++, and R** in my personal endeavors.
+Practice combines the rigour of large-scale systems engineering with a working understanding of credit, treasury, and corporate finance, grounded in a dual degree in **Computer Engineering and Business Administration**. Day-to-day deliverables span functional decomposition of complex financial requirements, REST and SOAP contract design, PL/SQL data-layer optimisation, and the production of formal technical and product specifications consumed by multinational delivery teams.
 
-- 🌍 &nbsp;Language and culture play a significant role in my professional and personal life. I am fluent in **English, French, and Spanish** (my native language). Currently based in 🏝️ **Valencia**, I am not only focused on my career but also on fostering a balanced and enriching life outside of work.
+Operates fluently across **English, French, and Spanish** in cross-border project environments. Based in Valencia, Spain.
 
-- 👩‍❤️‍👨 &nbsp;I am happily married, and in my leisure time, I find solace in reading. Books like George Orwell's "**1984**" captivate me, as well as other works that challenge my understanding of society and technology. I also delve into classics and modern literature that reflect critical thinking and profound insights into human nature and societal structures, akin to the themes found in "**Brave New World**" by Aldous Huxley and "**Fahrenheit 451**" by Ray Bradbury.
+---
 
-- 📢 &nbsp;Feel free to connect with me for insights into fintech, technology, and software development, or simply to exchange thoughts on the latest in science fiction and societal critique. 
+## Domain Focus
 
-- 🌐 &nbsp;Visit my [LinkedIn profile](https://www.linkedin.com/in/andres-aldaz/) for a more comprehensive overview of my professional journey and projects. I am always open to new opportunities, collaborations, and conversations that drive growth and understanding.
+- Core banking and equipment finance platforms 
+- Settlement, invoicing, and accrual batch cycles at institutional volume
+- Multi-party reconciliation and inter-system contract design
+- Functional analysis: PRD, TRD, and user-story decomposition for regulated finance
+- API engineering: endpoint conventions, pagination semantics, idempotency, error contracts
+- Oracle PL/SQL — query optimisation, stored procedure design, schema forensics
+- Tax computation pipelines, regulatory reporting, and audit-grade data lineage
 
+---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## Technical Surface
 
-### 🛠 &nbsp;Tech Stack
+```
+Languages       PL/SQL   Python   Java   C / C++   JavaScript   R
+Data            Oracle   PostgreSQL   SQL Server
+Integration     REST   SOAP   Batch   OAuth 2.0
+Frameworks      Node.js   React   Django
+Engineering     Git   Docker   CI/CD   Jira   LaTeX
+```
 
+---
 
-![PL/SQL](https://img.shields.io/badge/PL%20SQL-Oracle-red?logo=oracle&style=for-the-badge)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C#](https://img.shields.io/badge/C-05122A?style=flat&logo=c-sharp) &nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-05122A?style=flat&logo=latex)&nbsp;
+## Contact
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="http://www.daibeal.me"><img src="https://img.shields.io/badge/-daibeal.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/daibeal/"><img src="https://img.shields.io/badge/-Andrés B. Aldaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:andres@daibeal.me?subject=Github%20Profile&body=Hi%20Andr%C3%A9s!%0D%0A%0D%0AI%20would%20like%20to%20send%20you%20a%20message!%0D%0A%0D%0A-%20Att%20(insert%20name)"><img src="https://img.shields.io/badge/-andres@daibeal.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/andresbenitess"><img src="https://img.shields.io/badge/-@andresbenitess-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
------
-Last updated: 2024-02-11 00:10:22
+- Web · [daibeal.me](http://www.daibeal.me)
+- LinkedIn · [linkedin.com/in/daibeal](https://www.linkedin.com/in/daibeal/)
+- Email · andres@daibeal.me
